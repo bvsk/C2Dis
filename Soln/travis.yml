@@ -1,7 +1,0 @@
-language: csharp
-
-script:
-
-
-  - xbuild /p:Configuration=Debug Soln\WebApplication2\WebApplication2.sln
-
