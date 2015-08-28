@@ -1,6 +1,9 @@
 ﻿<%@ Page Title="Home Page" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Default.aspx.cs" Inherits="WebApplication2._Default" %>
 <asp:Content ID="BodyContent" ContentPlaceHolderID="MainContent" runat="server">
                             
+                    <table>
+                        <tr>
+                            
                     <table style="width:100%;">
                     <tr>
                         <td class="auto-style1">&nbsp;</td>
@@ -17,10 +20,22 @@
                     <tr>
                         <td class="auto-style2">
                             &nbsp;</td>
-                        <td>&nbsp;</td>
+
+        
+
+                            </Center>
+                        <td class="text-right"><strong>Click</strong></td>
+
+    <Center>
                         <td class="auto-style6">
-                            &nbsp;</td>
-                        <td class="auto-style7">&nbsp;</td>
+                            <strong>2</strong></td>
+
+        
+
+                            </Center>
+                        <td class="auto-style7" style="text-align: left"><strong>Disconnect</strong></td>
+
+    <Center>
                         <td>&nbsp;</td>
                     </tr>
                     <tr>
@@ -226,5 +241,8 @@
             height: 330px;
         }
     </style>
+                    
+                        </tr>
+                    </table>
                     
 </asp:Content>
