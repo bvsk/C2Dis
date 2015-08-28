@@ -1,7 +1,4 @@
 language: csharp
-
 script:
-
-
-  - xbuild /p:Configuration=Debug WebApplication2\WebApplication2.sln
+  - xbuild /p:Configuration=Release WebApplication2\WebApplication2.sln
 
