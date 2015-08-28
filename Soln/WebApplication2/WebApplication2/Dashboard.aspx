@@ -7,8 +7,8 @@
     <title></title>
     <style type="text/css">
         .auto-style2 {
-            width: 55%;
-            height: 262px;
+            width: 98%;
+            height: 365px;
         }
         .auto-style4 {
             width: 98%;
@@ -41,12 +41,12 @@
             
                 
             <td rowspan="2">
-                <img alt="" src="offers.png" ; class="auto-style2" height="90%" Width="90%"/><br />
+                <img alt="" src="offers.png" ; class="auto-style2"/><br />
             </td>
             
                 
             <td>
-                <asp:Image ID="Image1" runat="server" src="callinsights.png" height="30%" Width="30%"/>
+                <asp:Image ID="Image1" runat="server" src="callinsights.png" height="30%" Width="30%" ImageAlign="Middle"/>
             </td>
             
                 
@@ -56,7 +56,7 @@
            <td>&nbsp;</td></td>
             
            <td>
-               <asp:Image ID="Image2" runat="server" src="repguide111.png" height="50%" Width="50%"/>
+               <asp:Image ID="Image2" runat="server" src="repguide111.png" height="50%" Width="78%"/>
             </td>
             
         </tr>
