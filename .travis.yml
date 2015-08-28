@@ -1,4 +1,4 @@
 language: csharp
 script:
-  - xbuild /p:Configuration=Release Soln\WebApplication2\WebApplication2.sln
+  - xbuild /p:Configuration=Release WebApplication2.sln
 
