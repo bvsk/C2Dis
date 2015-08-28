@@ -1,4 +1,4 @@
 language: csharp
-solution: Soln/WebApplication2/WebApplication2.sln
-script: xbuild /p:Configuration=Release Soln/WebApplication2/WebApplication2.sln
+solution: WebApplication2.sln
+script: xbuild /p:Configuration=Release WebApplication2.sln
 
