@@ -9,7 +9,7 @@
                         <td>&nbsp;</td>
                     </tr>
                         <tr>
-                            <td><img src="dotcomnew.png" style="height:80%;"/></td>
+                            <td><img src="dotcomnew.png" class="header"/></td>
                         </tr>
                         </table>
 
@@ -220,6 +220,11 @@
         
 
                             </Center>
-
+<style type="text/css">
+        .header {
+            width: 100%;
+            height: 330px;
+        }
+    </style>
                     
 </asp:Content>

@@ -13,6 +13,22 @@
         .auto-style4 {
             width: 98%;
         }
+
+        .auto-style5 {
+            width: 65%;
+            height: 170px;
+        }
+        .auto-style6 {
+            width: 70%;
+             height:250px;
+        }
+        .auto-style7 {
+            width: 228px;
+            text-align: center;
+        }
+        .auto-style8 {
+            text-align: center;
+        }
     </style>
 </head>
 <body>
@@ -22,6 +38,18 @@
     </div>
     <p>
         &nbsp;</p>
+        <table  height="80%"; class="auto-style4">
+        <tr>
+            <td colspan="7"><img alt="" src="header.png"/><br /></td>
+            <tr>
+            <td class="auto-style7" style="border: thick solid #C0C0C0"><strong>Customer Name:</strong>&nbsp; Chuck D</td>
+            <td class="auto-style8" style="border-style: solid; border-width: inherit; border-color: #C0C0C0;"><strong>TelePhone:</strong> 813-456-3365</td>
+            <td class="auto-style8" style="border-style: solid; border-width: inherit; border-color: #C0C0C0;"><strong>Address:</strong> 1556, App 2, Auburab,NJ,12032</td>
+            <td class="auto-style8" style="border-style: solid; border-width: inherit; border-color: #C0C0C0;"><strong>Reason for Disconnect:</strong> Billing - Incorrect Metering</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            </table>
     <table  height="80%"; class="auto-style4">
         <tr>
             <td>&nbsp;</td>
@@ -46,7 +74,7 @@
             
                 
             <td>
-                <asp:Image ID="Image1" runat="server" src="callinsights.png" height="30%" Width="30%" ImageAlign="Middle"/>
+                <asp:Image ID="Image1" runat="server" src="callinsights.png" class="auto-style5" ImageAlign="Middle"/>
             </td>
             
                 
@@ -56,7 +84,7 @@
            <td>&nbsp;</td></td>
             
            <td>
-               <asp:Image ID="Image2" runat="server" src="repguide111.png" height="50%" Width="78%"/>
+               <asp:Image ID="Image2" runat="server" src="repguide111.png" class="auto-style6"/>
             </td>
             
         </tr>
