@@ -13,31 +13,85 @@ namespace WebApplication2 {
     public partial class _Default {
         
         /// <summary>
-        /// Radiobutton1 control.
+        /// Price1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.RadioButton Radiobutton1;
+        protected global::System.Web.UI.WebControls.RadioButton Price1;
         
         /// <summary>
-        /// Radiobutton2 control.
+        /// Service1 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.RadioButton Radiobutton2;
+        protected global::System.Web.UI.WebControls.RadioButton Service1;
         
         /// <summary>
-        /// Radiobutton3 control.
+        /// Price2 control.
         /// </summary>
         /// <remarks>
         /// Auto-generated field.
         /// To modify move field declaration from designer file to code-behind file.
         /// </remarks>
-        protected global::System.Web.UI.WebControls.RadioButton Radiobutton3;
+        protected global::System.Web.UI.WebControls.RadioButton Price2;
+        
+        /// <summary>
+        /// Service2 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RadioButton Service2;
+        
+        /// <summary>
+        /// Price3 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RadioButton Price3;
+        
+        /// <summary>
+        /// Service3 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RadioButton Service3;
+        
+        /// <summary>
+        /// Billin1 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RadioButton Billin1;
+        
+        /// <summary>
+        /// Billing2 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RadioButton Billing2;
+        
+        /// <summary>
+        /// Billing3 control.
+        /// </summary>
+        /// <remarks>
+        /// Auto-generated field.
+        /// To modify move field declaration from designer file to code-behind file.
+        /// </remarks>
+        protected global::System.Web.UI.WebControls.RadioButton Billing3;
         
         /// <summary>
         /// Button2 control.
