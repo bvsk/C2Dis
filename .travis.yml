@@ -1,8 +1,4 @@
 language: csharp
-solution: WebApplication2\WebApplication2.sln
-install:
-  - sudo apt-get install -y gtk-sharp2
-  - nuget restore WebApplication2\WebApplication2.sln
 script:
   - xbuild /p:Configuration=Release WebApplication2\WebApplication2.sln
 
