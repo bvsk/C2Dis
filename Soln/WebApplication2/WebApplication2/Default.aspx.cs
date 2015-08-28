@@ -41,5 +41,10 @@ namespace WebApplication2
             }
 
         }
+
+        protected void Radiobutton1_CheckedChanged(object sender, EventArgs e)
+        {
+
+        }
     }
 }

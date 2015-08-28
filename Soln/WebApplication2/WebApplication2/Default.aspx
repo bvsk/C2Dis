@@ -43,7 +43,7 @@
                     <tr>
                         <td class="auto-style2">&nbsp;</td>
                         <td>
-                            <asp:radiobutton id="Radiobutton1" runat="server" autopostback="false" groupname="price" Text="Price Increase" Font-Bold="False"/></td>
+                            <asp:radiobutton id="Radiobutton1" runat="server" autopostback="false" groupname="price" Text="Price Increase" Font-Bold="False" OnCheckedChanged="Radiobutton1_CheckedChanged"/></td>
                         <td class="auto-style2">&nbsp;</td>
                         <td>
                             <input id="Broken Promises" class="auto-style3" name="Technical" type="radio" value="V1" />Broken Promises</td>
